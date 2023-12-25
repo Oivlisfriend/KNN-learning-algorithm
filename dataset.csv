@@ -1,0 +1,15 @@
+ID,IDADE,RENDA,ESTUDANTE,CREDITO,CLASSE
+1,≤30,Alta,Não,Bom,Não
+2,≤30,Alta,Sim,Bom,Não
+3,31...40,Alta,Não,Bom,Sim
+4,>40,Média,Não,Bom,Sim
+5,>40,Baixa,Sim,Bom,Sim
+6,>40,Baixa,Sim,Excelente,Não
+7,31...40,Baixa,Sim,Excelente,Sim
+8,≤30,Média,Não,Bom,Não
+9,≤30,Baixa,Sim,Bom,Sim
+10,>40,Média,Sim,Bom,Sim
+11,≤30,Média,Sim,Excelente,Sim
+12,31...40,Média,Não,Excelente,Sim
+13,31...40,Alta,Sim,Bom,Sim
+14,>40,Média,Não,Excelente,Não
